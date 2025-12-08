@@ -6,7 +6,7 @@ const Contact = () => {
                 Feel free to reach out via email, phone, or connect on social platforms.
             </p>
 
-            <form className="contact-form " action="https://formspree.io/f/xwpgqzov" method="POST" style={{
+            <form className="contact-form form-updated" action="https://formspree.io/f/xwpgqzov" method="POST" style={{
                 maxWidth: "500px",
                 width: "100%",
                 position: "absolute",
