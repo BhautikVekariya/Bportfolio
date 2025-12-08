@@ -19,35 +19,36 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I am passionate about python full-stack developer and truly enjoy turning ideas into
+              real, functional web applications. Every project I work on helps me learn and
+              grow as a developer. 
               <br />
-              <br />I am fluent in classics like
+              <br />
+              I am skilled in both frontend and backend technologies such as
               <i>
-                <b className="purple"> C, Javascript and Python </b>
+                <b className="purple"> Python, Django, JavaScript, React.js, HTML, CSS, Bootstrap, and Tailwind CSS </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My areas of interest include building
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple"> modern Web Applications, APIs, and full-stack products</b>
               </i>
+              &nbsp;that are scalable, responsive, and user-friendly.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I also enjoy working with backend technologies like
+              <b className="purple"> Django and Node.js</b>, and I love developing applications using
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
+                <b className="purple"> modern JavaScript libraries and frameworks </b>
               </i>
-              &nbsp; like
+              such as
               <i>
-                <b className="purple"> React.js </b>
+                <b className="purple"> React.js</b>
               </i>
+               &nbsp; to create smooth and interactive user experiences.
             </p>
+
           </Col>
 
           <Col md={4} className="myAvtar">
@@ -64,7 +65,7 @@ function Home2() {
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
-              
+
               {/* GitHub */}
               <li className="social-icons">
                 <a
