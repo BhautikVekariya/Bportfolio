@@ -157,6 +157,20 @@ button:focus {
     padding-bottom: 55px !important;
     margin-bottom: 47px !important;
   }
+  .box-gap{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap:0px !important;
+    flex-wrap: wrap;
+    margin-top: 37px;
+  }
+  .contact-title{
+    margin-bottom: 21px !important;
+  }
+  .contact-content{
+    margin-top: -11px !important;
+  }
 }
 
 
@@ -644,6 +658,7 @@ button:focus {
     padding-top: 0 !important;
   }
 }
+
 
 /* --------- */
 /* Resume */

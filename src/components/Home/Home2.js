@@ -102,7 +102,7 @@ function Home2() {
                 </a>
               </li>
 
-              {/* Instagram */}
+              {/* PhoneNumber */}
               <li className="social-icons">
                 <a
                   href="tel:+919876543210"
